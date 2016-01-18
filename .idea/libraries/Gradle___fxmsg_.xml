@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :fxmsg:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fxmsg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

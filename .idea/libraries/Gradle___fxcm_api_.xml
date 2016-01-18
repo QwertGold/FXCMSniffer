@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :fxcm-api:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fxcm-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
